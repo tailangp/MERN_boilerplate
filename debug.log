@@ -1,0 +1,6 @@
+[0206/171549:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0206/171824:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0206/172042:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0206/181325:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0206/182153:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0206/182153:ERROR:node_debugger.cc(86)] Cannot start debugger server
