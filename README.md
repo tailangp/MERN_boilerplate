@@ -1,2 +1,2 @@
 # MERN_boilerplate
-Mongo Express React Node Bolier Place
+Mongo Express React Node Bolier Plate
